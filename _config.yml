@@ -1,0 +1,5 @@
+title: GrilaPro
+description: Teste grilă pentru bacalaureat și pentru admiterea la școlile de poliție, jandarmerie și frontieră
+lang: ro
+theme: jekyll-theme-primer
+exclude: [README.md]
