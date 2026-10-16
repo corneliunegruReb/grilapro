@@ -22,6 +22,8 @@ Trimite un email la negrucorneliu9@gmail.com, de pe adresa cu care ți-ai făcut
 
 ## Ce nu se șterge
 
+- Abonamentul nu se anulează odată cu contul. Pe Android îl anulezi din Google Play: **Plăți și abonamente → Abonamente**. Pe iPhone, din **Configurări → numele tău → Abonamente**.
+- Datele despre plăți rămân la Google sau, pentru cumpărăturile de pe iPhone, la Apple, cât cere legislația fiscală. Istoricul cumpărărilor din RevenueCat rămâne legat doar de un identificator aleatoriu, fără adresa ta de email.
 - Rapoartele de eroare trimise deja nu conțin adresa ta de email și se șterg singure în cel mult 90 de zile.
 
 Mai multe detalii: [Politica de confidențialitate](politica-de-confidentialitate.md).
