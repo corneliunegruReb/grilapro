@@ -12,7 +12,7 @@
 
 ## Fără aplicație
 
-Trimite un email la negrucorneliu9@gmail.com, de pe adresa cu care ți-ai făcut contul, cu subiectul „Ștergere cont GrilaPro”. Ștergem contul în cel mult 30 de zile și îți confirmăm pe email.
+Trimite un email la contact@grilapro.ro, de pe adresa cu care ți-ai făcut contul, cu subiectul „Ștergere cont GrilaPro”. Ștergem contul în cel mult 30 de zile și îți confirmăm pe email.
 
 ## Ce se șterge
 

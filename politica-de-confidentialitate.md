@@ -1,6 +1,6 @@
 # Politica de confidențialitate GrilaPro
 
-Ultima actualizare: 16 octombrie 2026
+Ultima actualizare: 19 octombrie 2026
 
 GrilaPro este o aplicație de pregătire cu teste grilă pentru bacalaureat și pentru admitere (la școlile de poliție, jandarmerie și frontieră și la facultatea de drept). Pagina aceasta explică ce date personale prelucrează aplicația, de ce, cui le transmite și ce drepturi ai.
 
@@ -8,7 +8,7 @@ GrilaPro este o aplicație de pregătire cu teste grilă pentru bacalaureat și 
 
 Operatorul datelor este Negru Corneliu, persoană fizică, din Dorohoi, județul Botoșani.
 
-Pentru orice întrebare despre datele tale ne poți scrie la negrucorneliu9@gmail.com.
+Pentru orice întrebare despre datele tale ne poți scrie la contact@grilapro.ro.
 
 ## Ce date prelucrăm
 
@@ -61,10 +61,12 @@ Folosim furnizori care prelucrează datele în numele nostru, numai pentru scopu
 | Furnizor | Pentru ce | Unde |
 | --- | --- | --- |
 | Supabase | contul și progresul (baza de date și autentificarea) | Germania (UE) |
-| Google | autentificarea cu Google, trimiterea emailurilor cu coduri de confirmare, plățile prin Google Play | UE / SUA |
+| Google | autentificarea cu Google, plățile prin Google Play | UE / SUA |
+| Resend | trimiterea emailurilor cu coduri de confirmare (crearea contului, parola uitată) | Irlanda (UE) |
 | Apple | pe iPhone: autentificarea cu Apple și plățile prin App Store | UE / SUA |
 | RevenueCat | starea abonamentului și istoricul cumpărărilor | SUA |
 | Sentry | rapoartele de eroare | Uniunea Europeană |
+| Cloudflare | redirecționarea mesajelor trimise la contact@grilapro.ro | UE / SUA |
 
 Când datele ajung în afara Spațiului Economic European, transferul se face pe baza clauzelor contractuale standard aprobate de Comisia Europeană sau a unei decizii de adecvare.
 
@@ -100,7 +102,7 @@ Ai dreptul:
 - să ceri restricționarea prelucrării sau să te opui prelucrărilor bazate pe interes legitim;
 - să primești datele într-un format pe care îl poți folosi în altă parte.
 
-Scrie-ne la negrucorneliu9@gmail.com; răspundem în cel mult 30 de zile.
+Scrie-ne la contact@grilapro.ro; răspundem în cel mult 30 de zile.
 
 Dacă socotești că datele tale au fost prelucrate greșit, poți depune plângere la Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP), www.dataprotection.ro.
 
