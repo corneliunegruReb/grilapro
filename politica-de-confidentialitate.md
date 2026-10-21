@@ -1,6 +1,6 @@
 # Politica de confidențialitate GrilaPro
 
-Ultima actualizare: 19 octombrie 2026
+Ultima actualizare: 20 octombrie 2026
 
 GrilaPro este o aplicație de pregătire cu teste grilă pentru bacalaureat și pentru admitere (la școlile de poliție, jandarmerie și frontieră și la facultatea de drept). Pagina aceasta explică ce date personale prelucrează aplicația, de ce, cui le transmite și ce drepturi ai.
 
@@ -22,7 +22,7 @@ Pentru orice întrebare despre datele tale ne poți scrie la contact@grilapro.ro
 **Progresul tău**
 
 - pentru fiecare chestionar terminat: data, materia, capitolul, numărul chestionarului și câte răspunsuri corecte ai dat;
-- chestionarele începute și neterminate, păstrate doar pe telefonul tău.
+- pentru fiecare chestionar început și neterminat: întrebarea la care ai rămas și răspunsurile date până atunci, ca să poți continua și după o reinstalare sau pe alt telefon. Când termini un chestionar sau îl iei de la capăt, păstrăm doar materia, capitolul, numărul chestionarului și momentul, ca celelalte telefoane ale tale să știe că s-a încheiat.
 
 **Date tehnice**
 
